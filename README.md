@@ -1,3 +1,3 @@
-CSE 120 Lecture 11 Assignment
+# CSE 120 Lecture 11 Assignment
 
-Class assignment for CMPM 120 where we explore 1D of movement
+My submission for a lecture assignment exploring 1-dimensional movement, created for Professor Jim Whitehead's Spring 2024 CMPM 120 class at UCSC.
